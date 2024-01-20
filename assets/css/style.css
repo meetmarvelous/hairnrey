@@ -4283,11 +4283,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .testimonial_thumb a {
   border: 10px solid #edf4fc;
   display: inline-block;
-  height: 90px;
+  height: 200px;
   margin: 10px 0;
   position: relative;
   vertical-align: middle;
-  width: 90px;
+  width: 200px;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
